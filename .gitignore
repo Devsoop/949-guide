@@ -2,3 +2,4 @@
 # the repo is served publicly by GitHub Pages and only the StatiCrypt output is protected.
 _src/
 _build/
+.staticrypt.json
